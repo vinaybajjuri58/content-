@@ -164,6 +164,7 @@ Your job is just to assemble them for your domain.
 ---
 
 # Related Notes
+- [[Week 1]] — Full week overview
 - [[AI Ecosystem Index]] — Full series overview
 - [[01-five-layer-ai-stack]] — Why Layer 5 (Applications) is where we play
 - [[03-types-of-ai-models]] — Which model types can be used as the engine

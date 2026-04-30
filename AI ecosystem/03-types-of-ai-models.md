@@ -231,6 +231,7 @@ Which type are you most curious about? 👇
 ---
 
 # Related Notes
+- [[Week 1]] — Full week overview
 - [[AI Ecosystem Index]] — Full series overview
 - [[01-five-layer-ai-stack]] — Context on why models exist at Layer 4
 - [[02-model-vs-agent]] — How these model types become agents with tools + memory

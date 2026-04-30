@@ -127,6 +127,7 @@ Pick your field. Build the tool.
 ---
 
 # Related Notes
+- [[Week 1]] — Full week overview
 - [[AI Ecosystem Index]] — Full series overview
 - [[02-model-vs-agent]] — Layer 4 (Models) ni explain cheyyatam — engine vs car analogy
 - [[03-types-of-ai-models]] — Text, Image, Video, 3D — anni types

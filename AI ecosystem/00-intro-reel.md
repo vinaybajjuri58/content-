@@ -136,6 +136,12 @@ Follow if you're as confused as I was.
 # Sources / Links
 - No external sources — this is personal narrative
 
+# Related Notes
+- [[Week 1]] — Full week overview
+- [[AI Ecosystem Index]] — Series hub
+
+---
+
 # Raw Notes
 _Original idea from user_
 
