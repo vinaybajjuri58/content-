@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e909c6ccfa4237a",
+        "id": "b87745a41b73b1a5",
         "type": "tabs",
         "children": [
           {
-            "id": "1cb93e18b807e16e",
+            "id": "c4b3be5c311dbf69",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "1cb93e18b807e16e",
+  "active": "c4b3be5c311dbf69",
   "lastOpenFiles": [
+    "Weeks/Week 1.md",
+    "Weeks",
+    "Recommendations/W1-D7-bbwv-coconut-value-chain.md",
+    "Recommendations",
+    "Memes/W1-D6-ai-business-ideas-meme.md",
+    "Memes",
+    "Personal Finance/W1-D5-personal-finance-101-safety-net.md",
+    "Personal Finance/05-personal-finance-101-safety-net.md",
+    "Personal Finance",
     "AI ecosystem/00-intro-reel.md",
     "AI ecosystem/03-types-of-ai-models.md",
     "Content Calendar.md",
