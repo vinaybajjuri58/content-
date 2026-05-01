@@ -17,20 +17,20 @@ tags: [curriculum, planning, overview]
 
 ## Full Curriculum Map
 
-| Week | Theme | Notes |
-|------|-------|-------|
-| 1 | AI Ecosystem | Done. Jensen Huang 5-layer stack, model vs agent, types of models |
-| 2 | Prompting | In progress. Why prompting, types, skills hype, AI psychosis |
-| 3 | Tools | ChatGPT, Claude, Gemini, Perplexity, Cursor etc. Will be highest-performing week — people already have opinions |
-| 4 | Memory Part 1 | Traditional memory + context window |
-| 5 | Memory Part 2 | Vector DBs + use cases |
-| 6 | Memory Part 3 | Knowledge Graphs + use cases |
-| 7 | Workflows | Automations — n8n, Zapier + AI |
-| 8 | Agents | Autonomous AI, what agency means |
-| 9 | Connecting the Dots | How stack, prompts, memory, agents fit together. Don't rush this week — it's the payoff for loyal followers |
-| 10-11 | Image + Video | Midjourney, Sora, RunwayML etc. Vibe coding comes here too |
-| 12 | Audio | ElevenLabs, voice cloning, music AI |
-| 13+ | AI-first Software | What to build and how. Monetization opportunity — course, community, consulting |
+| Week  | Theme               | Notes                                                                                                           |
+| ----- | ------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 1     | AI Ecosystem        | Done. Jensen Huang 5-layer stack, model vs agent, types of models                                               |
+| 2     | Prompting           | In progress. Why prompting, types, skills hype, AI psychosis                                                    |
+| 3     | Tools               | ChatGPT, Claude, Gemini, Perplexity, Cursor etc. Will be highest-performing week — people already have opinions |
+| 4     | Memory Part 1       | Traditional memory + context window                                                                             |
+| 5     | Memory Part 2       | Vector DBs + use cases                                                                                          |
+| 6     | Memory Part 3       | Knowledge Graphs + use cases                                                                                    |
+| 7     | Workflows           | Automations — n8n, Zapier + AI                                                                                  |
+| 8     | Agents              | Autonomous AI, what agency means                                                                                |
+| 9     | Connecting the Dots | How stack, prompts, memory, agents fit together. Don't rush this week — it's the payoff for loyal followers     |
+| 10-11 | Image + Video       | Midjourney, Sora, RunwayML etc. Vibe coding comes here too                                                      |
+| 12    | Audio               | ElevenLabs, voice cloning, music AI                                                                             |
+| 13+   | AI-first Software   | What to build and how. Monetization opportunity — course, community, consulting                                 |
 
 ---
 
