@@ -56,6 +56,6 @@ Template at: `Templates/Post Template.md`
 - Day 2: `AI ecosystem/01-five-layer-ai-stack.md` — Jensen Huang's 5-layer AI stack
 - Day 3: `AI ecosystem/02-model-vs-agent.md` — Model vs Agent
 - Day 4: `AI ecosystem/03-types-of-ai-models.md` — Types of AI models
-- Day 5: `Personal Finance/W1-D5-personal-finance-101-safety-net.md` — Safety Net
+- Day 5: `AI ecosystem/04-open-source-vs-closed-source.md` — Open Source vs Closed Source models + self-hosted business opportunity
 - Day 6: `Memes/W1-D6-ai-business-ideas-meme.md` — AI Business Ideas meme
 - Day 7: `Recommendations/W1-D7-bbwv-coconut-value-chain.md` — BBWV Coconut Value Chain
