@@ -13,15 +13,15 @@ tags: [week-index, week1, ai, personalfinance, meme, recommendation]
 
 ## Episode Index
 
-| Day | Episode | Category | Format |
-|-----|---------|----------|--------|
-| D1 | [[00-intro-reel]] — Why I started this page | AI | Reel |
-| D2 | [[01-five-layer-ai-stack]] — Jensen Huang's 5-layer AI stack | AI | Carousel |
-| D3 | [[02-model-vs-agent]] — Model vs Agent: Engine vs Car | AI | Carousel |
-| D4 | [[03-types-of-ai-models]] — Text, Image, Video, 3D models | AI | Carousel |
-| D5 | [[W1-D5-personal-finance-101-safety-net]] — Safety net before investing | Finance | Carousel |
-| D6 | [[W1-D6-ai-business-ideas-meme]] — Asking AI for 100cr, 0 risk, 0 work | Meme | Reel |
-| D7 | [[W1-D7-bbwv-coconut-value-chain]] — BBWV Ep 48: Coconut value chain | Rec | Reel |
+| Day | Episode                                                                 | Category | Format   |
+| --- | ----------------------------------------------------------------------- | -------- | -------- |
+| D1  | [[00-intro-reel]] — Why I started this page                             | AI       | Reel     |
+| D2  | [[01-five-layer-ai-stack]] — Jensen Huang's 5-layer AI stack            | AI       | Carousel |
+| D3  | [[02-model-vs-agent]] — Model vs Agent: Engine vs Car                   | AI       | Carousel |
+| D4  | [[03-types-of-ai-models]] — Text, Image, Video, 3D models               | AI       | Carousel |
+| D5  | [[W1-D5-personal-finance-101-safety-net]] — Safety net before investing | Finance  | Carousel |
+| D6  | [[W1-D6-ai-business-ideas-meme]] — Asking AI for 100cr, 0 risk, 0 work  | Meme     | Reel     |
+| D7  | [[W1-D7-bbwv-coconut-value-chain]] — BBWV Ep 48: Coconut value chain    | Rec      | Reel     |
 
 ---
 

@@ -123,6 +123,7 @@ Pick your field. Build the tool.
 
 # Sources / Links
 - [Jensen Huang's AI Five-Layer Stack - YourStory](https://yourstory.com/2026/02/jensen-huang-ai-five-layer-stack-energy-chips-infrastructure)
+- https://youtube.com/shorts/h_txMZWtHnw?si=_mWVlcQx-euVc1zQ
 
 ---
 

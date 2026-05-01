@@ -177,3 +177,13 @@ _Your original script — use this + Details above to write the final version_
 ippudu manam text based models context lo matladuthunna, at the end of the days its just next word predictor, based on the data it was trained on
 
 So just engine ela ayitheh fuel nundi motor rotate chesthundo ala, so manam daniki prompting, tools, MCP, memory like traditional SQL, No-SQL DB, Knowledge Graph, Vector DB, Workflow, orchestration chestheh in terms of car lo tires, gears, body etc.. add chestheh adhi full fledged usable product avuthundi
+
+E video lo manam model vs Agent gurinchi matladukundam , 
+Kotha model raganeh idhi chesthadhi , e jobs pothai ,e model designers ni replace chesthadhi ,  ninnu replace chesthadhi antaru , but ala kadhu 
+Manam simple car analogy lo matladudham 
+Oka car engine road paina unteh adhi etaina pothadhi ah wheels , car frame , brake setup lekunda
+alaneh prompts , tools , memory , orchestration lekapotheh model by default em cheyyadhu 
+so basic ga agent anteh model ki tools ,memory tho orchestrate chestheh adhi agent avuthahdi 
+Appudu cursor , claude code lanti agents tho nannu , ninnu replace chese chance undi 
+
+
