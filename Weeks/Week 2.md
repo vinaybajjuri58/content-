@@ -1,5 +1,5 @@
 ---
-title: Week 2 — Prompting, AI Psychology, Compounding, Naval
+title: Week 2 — Prompting, AI Psychology, Prompt Injection, Naval
 week: 2
 tags: [week-index, week2, ai, prompting, personalfinance, recommendation]
 ---
@@ -19,7 +19,7 @@ tags: [week-index, week2, ai, prompting, personalfinance, recommendation]
 | D2 | [[05-types-of-prompting]] — Zero-shot, Few-shot, Chain-of-thought, Role prompting | AI | Carousel |
 | D3 | [[06-ai-skills-hype-is-just-prompting]] — "Life-changing AI skill" is just a prompt | AI | Carousel |
 | D4 | [[07-ai-sycophancy-bias]] — AI psychosis: model ని blindly trust చేయకు | AI | Carousel |
-| D5 | [[W2-D5-compounding]] — Compounding: the 8th wonder of the world | Finance | Carousel |
+| D5 | [[09-prompt-injection]] — Prompt Injection: AI ni meeru cheppamu kaadu, vere evaro chepparu | AI | Reel |
 | D6 | *(Meme — TBD)* | Meme | Reel |
 | D7 | [[W2-D7-naval-ravikant]] — Naval Ravikant: wealth, happiness, how to think | Rec | Reel |
 
@@ -28,7 +28,7 @@ tags: [week-index, week2, ai, prompting, personalfinance, recommendation]
 ## Week Narrative
 
 - **D1–D4:** Prompting series — what it is, how to use it well, the hype around it, and why you still need to think critically.
-- **D5:** Compounding — the foundational money concept everyone should understand early.
+- **D5:** Prompt Injection — direct and indirect attacks, real examples (Bing Chat, email forwarding, resume poisoning). OWASP #1 LLM threat.
 - **D6:** Meme — TBD.
 - **D7:** Naval Ravikant — Almanack, Joe Rogan podcast, wealth and happiness frameworks.
 
@@ -36,4 +36,4 @@ tags: [week-index, week2, ai, prompting, personalfinance, recommendation]
 
 ## Setup for Week 3
 
-Week 3 will move into AI tools — the apps and interfaces built on top of models. Vibe coding and Cursor will be covered here.
+Week 3 moves into Tool Calling — knowledge cutoff, what tools are, Interface vs API, MCP, real demos (Cursor, customer support, Remotion), and what happens when tools go wrong.

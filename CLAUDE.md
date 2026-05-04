@@ -59,3 +59,27 @@ Template at: `Templates/Post Template.md`
 - Day 5: `AI ecosystem/04-open-source-vs-closed-source.md` — Open Source vs Closed Source models + self-hosted business opportunity
 - Day 6: `Memes/W1-D6-ai-business-ideas-meme.md` — AI Business Ideas meme
 - Day 7: `Recommendations/W1-D7-bbwv-coconut-value-chain.md` — BBWV Coconut Value Chain
+
+### Week 2
+- Day 1: `AI ecosystem/04-why-prompting.md` — Why prompting matters (Chitti Robo hook)
+- Day 2: `AI ecosystem/05-types-of-prompting.md` — Zero-shot, few-shot, chain-of-thought, role prompting (empty shell)
+- Day 3: `AI ecosystem/06-ai-skills-hype-is-just-prompting.md` — "Life-changing AI skill" hype debunked (empty shell)
+- Day 4: `AI ecosystem/07-ai-sycophancy-bias.md` — AI sycophancy and bias (empty shell)
+- Day 5: `AI ecosystem/09-prompt-injection.md` — Prompt Injection (direct + indirect, real attacks)
+- Day 6: *(Meme — TBD)*
+- Day 7: `Recommendations/W2-D7-naval-ravikant.md` — Naval Ravikant
+- Unscheduled: `AI ecosystem/08-llm-poisoning.md` — LLM Poisoning (preserved for future)
+- Unscheduled: `Personal Finance/W2-D5-compounding.md` — Compounding (preserved for finance week)
+
+### Week 3
+- Day 1: `AI ecosystem/10-knowledge-cutoff.md` — Knowledge cutoff, why AI needs tools
+- Day 2: `AI ecosystem/11-what-is-a-tool.md` — What is a tool, Interface vs API, MCP
+- Day 3: `AI ecosystem/12-cursor-tool-demo.md` — Demo: Cursor file + terminal tool calls
+- Day 4: `AI ecosystem/13-customer-support-tool-demo.md` — Demo: customer support data fetching, human-in-the-loop
+- Day 5: `AI ecosystem/14-remotion-skill-demo.md` — Demo: Remotion skill (tool chain → motion graphics)
+- Day 6: `AI ecosystem/15-tools-gone-wrong.md` — Real AI failures (Air Canada, Chevrolet, UK discount, Supabase MCP)
+- Day 7: `Recommendations/W3-D7-marc-andreessen.md` — Marc Andreessen + Truth Terminal $50K story
+
+### Schedule Note
+- Finance / Money posts (compounding, moats, investing) have not started — will be introduced as a proper week or woven in starting Week 4+
+- All Week 3 content is reel format (video, not carousel)
