@@ -3,7 +3,7 @@ title: "Week 1 Ep 7 - Telugu Podcast Rec: BBWV Ep 48 - Coconut Value Chain ft. V
 phase: Recommendation
 topic: Value Chain, Agri-business, Telugu Podcast
 format: reel
-status: idea
+status: recorded
 scheduled:
 tags: [recommendation, telugupodcast, bbwv, vikasvepuri, valuechain, coconut, agribusiness, ai]
 related: ["[[AI Ecosystem Index]]"]
