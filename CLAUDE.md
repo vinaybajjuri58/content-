@@ -67,7 +67,7 @@ Template at: `Templates/Post Template.md`
 - Day 4: `AI ecosystem/07-ai-sycophancy-bias.md` — AI sycophancy and bias (empty shell)
 - Day 5: `AI ecosystem/09-prompt-injection.md` — Prompt Injection (direct + indirect, real attacks)
 - Day 6: *(Meme — TBD)*
-- Day 7: `Recommendations/W2-D7-naval-ravikant.md` — Naval Ravikant
+- Day 7: `Recommendations/W2-D7-ai-value-chain-extension.md` — Business concept: AI value chain extension (Apollo, Claude Code, GitHub Copilot, Zoom, Gong)
 - Unscheduled: `AI ecosystem/08-llm-poisoning.md` — LLM Poisoning (preserved for future)
 - Unscheduled: `Personal Finance/W2-D5-compounding.md` — Compounding (preserved for finance week)
 
@@ -80,6 +80,26 @@ Template at: `Templates/Post Template.md`
 - Day 6: `AI ecosystem/15-tools-gone-wrong.md` — Real AI failures (Air Canada, Chevrolet, UK discount, Supabase MCP)
 - Day 7: `Recommendations/W3-D7-marc-andreessen.md` — Marc Andreessen + Truth Terminal $50K story
 
+### Week 4
+- Day 1: `AI ecosystem/16-context-window-memory.md` — Context window problem (Ghazini analogy)
+- Day 2: `AI ecosystem/17-structured-unstructured-vector-db.md` — Structured vs Unstructured + Vector DB + Similarity Search (combined)
+- Day 3: `AI ecosystem/18-rag-explained.md` — RAG: open book exam for AI
+- Day 4: `AI ecosystem/19-chat-with-website-sitegpt.md` — Demo: Chat with Website using SiteGPT
+- Day 5: `AI ecosystem/20-chat-with-video-notebooklm.md` — Demo: Chat with Video using NotebookLM
+- Day 6: `Memes/W4-D6-memory-meme.md` — Memory meme (TBD)
+- Day 7: `Recommendations/W4-D7-naval-ravikant.md` — Naval Ravikant (influencer): wealth, leverage, specific knowledge
+
+### Week 5 (planned — not yet built)
+- Theme: Knowledge Graphs + Dark Side of Memory
+- D1: Knowledge Graph intro (childhood riddle analogy)
+- D2: Legal Docs use case
+- D3: E-commerce recommendations use case
+- D4: Concall / movie script / management personality analysis
+- D5: Dark side — memory poisoning, wrong memory at scale
+- D6: Meme TBD
+- D7: Book recommendation TBD (Alignment Problem under consideration)
+
 ### Schedule Note
-- Finance / Money posts (compounding, moats, investing) have not started — will be introduced as a proper week or woven in starting Week 4+
-- All Week 3 content is reel format (video, not carousel)
+- Finance / Money posts (compounding, moats, investing) have not started — will be introduced as a proper dedicated week later
+- All Week 3 and Week 4 content is reel format (video, not carousel)
+- Week 2 D2–D4 files are empty shells still needing content: 05-types-of-prompting.md, 06-ai-skills-hype-is-just-prompting.md, 07-ai-sycophancy-bias.md
