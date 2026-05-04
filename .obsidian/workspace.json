@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54d5c94c8a9b7b7a",
+        "id": "82257525e33519db",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2f5e1fa1c36d7b",
+            "id": "c3bc998485acd61b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI ecosystem/02-model-vs-agent.md",
+                "file": "AI ecosystem/04-open-source-vs-closed-source.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-model-vs-agent"
+              "title": "04-open-source-vs-closed-source"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI ecosystem/02-model-vs-agent.md",
+                "file": "AI ecosystem/04-open-source-vs-closed-source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02-model-vs-agent"
+              "title": "Backlinks for 04-open-source-vs-closed-source"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI ecosystem/02-model-vs-agent.md",
+                "file": "AI ecosystem/04-open-source-vs-closed-source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02-model-vs-agent"
+              "title": "Outgoing links from 04-open-source-vs-closed-source"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI ecosystem/02-model-vs-agent.md",
+                "file": "AI ecosystem/04-open-source-vs-closed-source.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02-model-vs-agent"
+              "title": "Outline of 04-open-source-vs-closed-source"
             }
           }
         ]
@@ -183,11 +183,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e2f5e1fa1c36d7b",
+  "active": "c3bc998485acd61b",
   "lastOpenFiles": [
-    "Weeks/Week 1.md",
-    "AI ecosystem/01-five-layer-ai-stack.md",
+    "AI ecosystem/03-types-of-ai-models.md",
     "AI ecosystem/02-model-vs-agent.md",
+    "AI ecosystem/01-five-layer-ai-stack.md",
+    "Weeks/Week 1.md",
+    "Recommendations/W1-D7-bbwv-coconut-value-chain.md",
+    "final_content/templates/9b47e0bb-4044-4957-b73a-bdbc0a4c11c4.png",
+    "final_content/templates/b65fb24a-725c-4e1d-a2c2-37bbd5990f48.png",
+    "final_content/templates/Car_engine_assembling_on_road_202605022055.mp4",
+    "final_content/templates",
+    "final_content/5 Layers of AI- May 02, 2026 at 12.43.21.mp4",
+    "final_content/Unconfirmed 373493.crdownload",
+    "final_content",
+    "Seedance 2.0 Skill",
+    "Seedance 2.0 Skill-20260501T122623Z-3-001.zip",
+    "Unconfirmed 753689.crdownload",
+    "AI Workshop Prompts Free.pdf",
+    "AI ecosystem/04-open-source-vs-closed-source.md",
     "Personal Finance/W1-D5-personal-finance-101-safety-net.md",
     "AI ecosystem/00-intro-reel.md",
     "Weeks/Curriculum Overview.md",
@@ -201,13 +215,8 @@
     "AI ecosystem/04-why-prompting.md",
     "CLAUDE.md",
     "Weeks",
-    "Recommendations/W1-D7-bbwv-coconut-value-chain.md",
-    "Recommendations",
     "Memes/W1-D6-ai-business-ideas-meme.md",
-    "Memes",
     "Personal Finance/05-personal-finance-101-safety-net.md",
-    "Personal Finance",
-    "AI ecosystem/03-types-of-ai-models.md",
     "AI ecosystem/AI Ecosystem Index.md"
   ]
 }

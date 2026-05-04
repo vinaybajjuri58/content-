@@ -8,6 +8,10 @@
 .obsidian/workspace-mobile.json
 .obsidian/graph.json
 
+# Local content folders
+final_content/
+Raw Content/
+
 # Editor
 .vscode/
 *.swp
