@@ -7,8 +7,8 @@ status: idea
 scheduled:
 tags: [finance, compounding, investing, wealth, time]
 related: ["[[W1-D5-personal-finance-101-safety-net]]"]
-week: 2
-day: 5
+week:
+day:
 category: finance
 ---
 
