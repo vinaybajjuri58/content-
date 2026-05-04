@@ -21,7 +21,7 @@ tags: [week-index, week3, ai, tool-calling, mcp, cursor, agents]
 | D4 | [[13-customer-support-tool-demo]] — Demo: AI fetches your real data via tool call | AI | Reel |
 | D5 | [[14-remotion-skill-demo]] — Demo: AI generates motion graphics using a Skill | AI | Reel |
 | D6 | [[15-tools-gone-wrong]] — Real failures: Air Canada, Chevrolet, Supabase, 80% discount | AI | Reel |
-| D7 | [[W3-D7-marc-andreessen]] — Marc Andreessen: $50K to an AI bot, Truth Terminal | Rec | Reel |
+| D7 | [[W3-D7-marc-andreessen]] — Influencer: Marc Andreessen — $50K to an AI bot, Truth Terminal | Influencer | Reel |
 
 ---
 

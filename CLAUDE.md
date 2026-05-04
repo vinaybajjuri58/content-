@@ -7,7 +7,7 @@ This is an Obsidian vault for planning and scripting Telugu Instagram content.
 - **Day 1-4:** AI-related content — concepts, tools, ecosystem, agents, etc.
 - **Day 5:** Money / Business topic — personal finance, business models, moats, investing concepts, etc.
 - **Day 6:** Meme reel — for engagement, humor, relatable content
-- **Day 7:** Content recommendation — YouTube channel, podcaster, or internet personality (Naval, etc.)
+- **Day 7:** Broaden your thinking — one of three formats: (1) Business concept or framework, (2) Influencer / person to follow, (3) Book recommendation
 
 ## Content File Format
 

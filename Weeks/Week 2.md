@@ -1,5 +1,5 @@
 ---
-title: Week 2 — Prompting, AI Psychology, Prompt Injection, Naval
+title: Week 2 — Prompting, AI Psychology, Prompt Injection, AI Value Chain
 week: 2
 tags: [week-index, week2, ai, prompting, personalfinance, recommendation]
 ---
@@ -21,7 +21,7 @@ tags: [week-index, week2, ai, prompting, personalfinance, recommendation]
 | D4 | [[07-ai-sycophancy-bias]] — AI psychosis: model ని blindly trust చేయకు | AI | Carousel |
 | D5 | [[09-prompt-injection]] — Prompt Injection: AI ni meeru cheppamu kaadu, vere evaro chepparu | AI | Reel |
 | D6 | *(Meme — TBD)* | Meme | Reel |
-| D7 | [[W2-D7-naval-ravikant]] — Naval Ravikant: wealth, happiness, how to think | Rec | Reel |
+| D7 | [[W2-D7-ai-value-chain-extension]] — Business concept: same customer, next problem, AI feature | Business Concept | Reel |
 
 ---
 
@@ -30,7 +30,7 @@ tags: [week-index, week2, ai, prompting, personalfinance, recommendation]
 - **D1–D4:** Prompting series — what it is, how to use it well, the hype around it, and why you still need to think critically.
 - **D5:** Prompt Injection — direct and indirect attacks, real examples (Bing Chat, email forwarding, resume poisoning). OWASP #1 LLM threat.
 - **D6:** Meme — TBD.
-- **D7:** Naval Ravikant — Almanack, Joe Rogan podcast, wealth and happiness frameworks.
+- **D7:** Business concept — AI value chain extension. Apollo, Claude Code, GitHub Copilot, Zoom AI. Same customer, next problem, AI makes it a feature not a headcount decision. Connects back to Week 1 D7 value chain post.
 
 ---
 
