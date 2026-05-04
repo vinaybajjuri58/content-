@@ -89,15 +89,14 @@ Template at: `Templates/Post Template.md`
 - Day 6: `Memes/W4-D6-memory-meme.md` — Memory meme (TBD)
 - Day 7: `Recommendations/W4-D7-naval-ravikant.md` — Naval Ravikant (influencer): wealth, leverage, specific knowledge
 
-### Week 5 (planned — not yet built)
-- Theme: Knowledge Graphs + Dark Side of Memory
-- D1: Knowledge Graph intro (childhood riddle analogy)
-- D2: Legal Docs use case
-- D3: E-commerce recommendations use case
-- D4: Concall / movie script / management personality analysis
-- D5: Dark side — memory poisoning, wrong memory at scale
-- D6: Meme TBD
-- D7: Book recommendation TBD (Alignment Problem under consideration)
+### Week 5
+- Day 1: `AI ecosystem/21-knowledge-graph-intro.md` — Knowledge Graph intro (childhood riddle analogy, nodes + edges, Google/Facebook/LinkedIn examples)
+- Day 2: `AI ecosystem/22-knowledge-graph-legal-docs.md` — Legal Docs use case (Harvey AI $3B, Allen & Overy 3,500 lawyers, LexisNexis 9B docs)
+- Day 3: `AI ecosystem/23-knowledge-graph-ecommerce.md` — E-commerce recommendations (Amazon 35% revenue, Flipkart, Meesho, Myntra)
+- Day 4: `AI ecosystem/24-knowledge-graph-personality-analysis.md` — Concall + movie script + management analysis (Gong $7.25B, AlphaSense $4B, Microsoft Viva)
+- Day 5: `AI ecosystem/25-memory-dark-side.md` — Dark side: memory poisoning (accidental, deliberate RAG poisoning, graph compounding, Samsung leak, Microsoft Recall)
+- Day 6: `Memes/W5-D6-knowledge-graph-meme.md` — Meme placeholder
+- Day 7: `Recommendations/W5-D7-alignment-problem.md` — "The Alignment Problem" by Brian Christian (RESEARCH READY — user hasn't read it, confirm before filming)
 
 ### Schedule Note
 - Finance / Money posts (compounding, moats, investing) have not started — will be introduced as a proper dedicated week later
